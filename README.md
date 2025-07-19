@@ -1,25 +1,36 @@
-# DSA Practice (Phase 4 - 2D Arrays & LeetCode Solutions)
-This repository contains my solutions for DSA practice problems and LeetCode challenges.
+## ✅ Phase 4 – 2D Arrays & LeetCode Solutions
 
-✅ Phase 4 focuses on:
-- 2D Arrays fundamentals (DSA)
-- LeetCode Easy problems for better problem-solving skills
+This phase focuses on:
+- **2D Arrays (DSA basics)**
+- **LeetCode Easy Problems** to strengthen problem-solving skills.
 
-The goal is to build strong problem-solving foundations and improve algorithmic thinking.
-📂 Phase4_2DArrays_DSA
-   ├── Print_2D_Matrix.py
-   ├── Transpose_of_Matrix.py
-   └── Add_Two_Matrices.py
+📂 **Folder Structure:**
 
-📂 Phase4_2DArrays_LeetCode
-   ├── LC_485_Max_Consecutive_Ones.py
-   ├── LC_566_Reshape_the_Matrix.py
-   └── LC_867_Transpose_Matrix.py
-- Python 3
-✅ Phase 4 - Day 1 completed (15th July 2025)
+phase4_2darrays_leetcode
+├── ADDITION_OF_2_MATRIX.py
+├── FACTORIAL_ITERATIVE_VERSION.py
+├── LC344_Reverse_string.py
+├── LC485_MAX_CONSECUTIVE_ONES.py
+├── LC566_RESHAPE_THE_MATRIX.py
+├── LC582_FLIPPING_OF_IMAGE.py
+├── LC667_TRANSPOSE_MATRIX.py
+├── LC977_Squares_of_a_Sorted_Array.py
+├── MULTIPLY_2_MATRIX.py
+├── PRINT_A_2D_MATRIX.py
+└── TRANSPOSE_OF_A_MATRIX.py
+
+
+### **Progress**
+- ✅ Day 1 (15th July 2025) Completed  
+- ✅ Day 2 (16th July 2025) Completed  
+- ✅ Day 3 (19th July 2025) Ongoing  
+
 More problems will be added daily.
-1. Clone the repo:
-   git clone https://github.com/itsjayeshk/DSA-Practice.git
 
-2. Open any .py file and run:
-   python filename.py
+---
+
+### **How to Run?**
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/itsjayeshk/DSA-Practice.git
