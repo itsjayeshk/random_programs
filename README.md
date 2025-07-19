@@ -20,10 +20,7 @@ phase4_2darrays_leetcode
 └── TRANSPOSE_OF_A_MATRIX.py
 
 
-### **Progress**
-- ✅ Day 1 (15th July 2025) Completed  
-- ✅ Day 2 (16th July 2025) Completed  
-- ✅ Day 3 (19th July 2025) Ongoing  
+
 
 More problems will be added daily.
 
